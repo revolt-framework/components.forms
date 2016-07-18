@@ -1,0 +1,23 @@
+{
+  "name": "revolt.components.forms",
+  "homepage": "https://github.com/revolt-framework/components.forms",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework's forms module.",
+  "main": "_components.forms.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "forms"
+  ],
+  "dependencies": {
+    "revolt.settings.defaults": "0.x.x"
+  },
+  "license": "MIT"
+}
