@@ -148,6 +148,8 @@ $revo-form-control-disabled-cursor:         not-allowed !default;
 // Make file inputs better match text inputs by forcing them to new lines.
 
 .#{$revo-form-namespace}form__control-file,
+%#{$revo-form-namespace}form__control-file,
+.#{$revo-form-namespace}form__control-range,
 %#{$revo-form-namespace}form__control-range {
     display: block;
 }
